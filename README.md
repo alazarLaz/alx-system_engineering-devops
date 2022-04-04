@@ -1,2 +1,1 @@
-Shell Basics
-redirection
+i/o redirection
